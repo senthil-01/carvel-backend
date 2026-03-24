@@ -8,5 +8,6 @@ pydantic-settings==2.1.0
 pandas>=1.5.0
 openpyxl>=3.0.10
 apscheduler==3.11.2
-bcrypt PyJWT
+bcrypt 
+PyJWT
 httpx
