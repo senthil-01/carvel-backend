@@ -11,3 +11,4 @@ apscheduler==3.11.2
 bcrypt 
 PyJWT
 httpx
+python-multipart
