@@ -12,3 +12,5 @@ bcrypt
 PyJWT
 httpx
 python-multipart
+
+
